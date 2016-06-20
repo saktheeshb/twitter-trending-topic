@@ -20,4 +20,5 @@ for example
  
  format for the text file topic,topicgroup. currently the path of the file is /temp/topicgroup.txt
  
+
 7. the final output will be stored in Cassandra CQL (time series fashion). Any BI tool can be connected to Cassandra and query using Cassandra Query Language
